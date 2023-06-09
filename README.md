@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+
 <h1 align="center">Hi 👋, I'm Ahmed Thashreef</h1>
 <h3 align="center">A passionate MERN stack developer.</h3>
 
